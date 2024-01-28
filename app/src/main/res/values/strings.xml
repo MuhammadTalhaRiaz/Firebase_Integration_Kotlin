@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">kotlintask</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="Welcomeback">Welcome Back!</string>
+    <string name="enter_password"> Password</string>
+    <string name="enter_username">Username</string>
+    <string name="enter_mobile"> MobileNo</string>
+    <string name="enter_email"> Email</string>
+    <string name="forget"> Forget Password</string>
+    <string name="or">or signup with</string>
+    <string name="desc">Please register your login detail below</string>
+    <string name="account_already">You have an account</string>
+    <string name="new_account">Do not have an account</string>
+    <string name="Signin">Signin</string>
+    <string name="Signup">Signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prifile">Profile</string>
+    <string name="profile_name">Miller Harley</string>
+    <string name="profile_email">millerharley</string>
+    <string name="edit_profile">Edit Account</string>
+    <string name="delete_profile">Delete Account</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="pasword">Password</string>
+    <string name="email">Email</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970962808010",
+    "firebase_url": "https://smss-b94c2.firebaseio.com",
+    "project_id": "smss-b94c2",
+    "storage_bucket": "smss-b94c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970962808010:android:7c7c67fbb67b73c5915833",
+        "android_client_info": {
+          "package_name": "com.task.kotlintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970962808010-qir1b55uknru9md7mnhu6t1a1g7mh7c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSg517Kzc7z9slkL5_3-j-WsFwnln3N-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970962808010-qir1b55uknru9md7mnhu6t1a1g7mh7c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
